@@ -1,2 +1,2 @@
-gmail = ''
-password = ''
+gmail = '//*[@class="ng-pristine.ng-invalid.ng-touched"]/div/mat-form-field/div/div[1]/div[3]/input'
+password = '//*[@class="ng-pristine.ng-invalid.ng-touched"]/div[2]/mat-form-field/div/div[1]/div[3]/input'
