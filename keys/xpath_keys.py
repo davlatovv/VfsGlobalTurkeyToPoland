@@ -1,2 +1,10 @@
-gmail = '//*[@class="ng-pristine.ng-invalid.ng-touched"]/div/mat-form-field/div/div[1]/div[3]/input'
-password = '//*[@class="ng-pristine.ng-invalid.ng-touched"]/div[2]/mat-form-field/div/div[1]/div[3]/input'
+delay = 30
+gmail = 'mat-input-0'
+password = 'mat-input-1'
+x = '//*[@id="onetrust-reject-all-handler"]'
+    # '//*[@id="onetrust-close-btn-container"]/button'
+important = '//label[@for="mat-checkbox-1-input"]/span'
+warning = '//*[@id="mat-checkbox-2"]'
+sign_in = '//*[@class="ng-invalid ng-dirty ng-touched"]/button'
+sign_in1 = '//form[@class="ng-invalid ng-dirty ng-touched"]/button'
+recaptcha = '//*[@class="ng-star-inserted"]'
