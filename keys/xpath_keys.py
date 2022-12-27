@@ -1,4 +1,4 @@
-delay = 30
+delay = 50
 gmail = 'mat-input-0'
 password = 'mat-input-1'
 x = '//*[@id="onetrust-reject-all-handler"]'
